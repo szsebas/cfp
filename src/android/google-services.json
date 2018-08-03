@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464602971762",
+    "firebase_url": "https://testmed-721dc.firebaseio.com",
+    "project_id": "testmed-721dc",
+    "storage_bucket": "testmed-721dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464602971762:android:f1be4d30a224b734",
+        "android_client_info": {
+          "package_name": "com.ionicframework.medsiteapp735183"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464602971762-9962b7anjeenfuq7k4ifjt0ogjil4kt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWT5cEDFwRH3ZXZifkVmzArLuuQvGqIo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
