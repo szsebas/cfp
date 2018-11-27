@@ -18,7 +18,7 @@ dependencies {
     compile 'com.google.firebase:firebase-auth:+'
 	compile 'com.android.support:appcompat-v7:26.1.0'
 }
-compileJava   {
+compileOptions   {
   sourceCompatibility = '1.7'
   targetCompatibility = '1.7'
 }
