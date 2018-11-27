@@ -7,9 +7,11 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>464602971762-9ap3q3hmlo9k91mml23d5fiib9riquae.apps.googleusercontent.com</string>
+	<string>464602971762-i90igngnn9eaccp13bb2nkfiln5rs9nc.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.464602971762-9ap3q3hmlo9k91mml23d5fiib9riquae</string>
+	<string>com.googleusercontent.apps.464602971762-i90igngnn9eaccp13bb2nkfiln5rs9nc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>464602971762-p25skilr9hu2m0ugkas2jal0aftpguft.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyB7WVXIAdj9dH1Q4d7zDXIwyNq5mnhJdUE</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +19,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ionicframework.medsiteapp735183</string>
+	<string>com.medsite.medsiteapp</string>
 	<key>PROJECT_ID</key>
 	<string>testmed-721dc</string>
 	<key>STORAGE_BUCKET</key>
@@ -27,13 +29,13 @@
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
 	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:464602971762:ios:f1be4d30a224b734</string>
+	<string>1:464602971762:ios:3b0bc09c33f82665</string>
 	<key>DATABASE_URL</key>
 	<string>https://testmed-721dc.firebaseio.com</string>
 </dict>
